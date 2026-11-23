@@ -1,4 +1,4 @@
-# Hi, I am Taqdeer 👋
+# Hi, I am Taqdeer :)
 
 4th-year Software Engineering student at the University of Victoria (graduating December, 2027), based in Victoria, BC. I've done co-ops in data, databases and firmware QA, and I like building things that are practical and well-tested.
 
