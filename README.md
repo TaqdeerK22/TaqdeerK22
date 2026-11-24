@@ -8,8 +8,8 @@
 - **Hardware:** Raspberry Pi, ESP32, PC troubleshooting
 
 ## Projects
-- **[realtor-site](https://github.com/TaqdeerK22/realtor-site)**: a full-stack real estate site with an admin dashboard (Next.js, PostgreSQL, Prisma, Docker). [Live demo]([https://markrealty.vercel.app/])
-- **[teraterm-qa-runner](https://github.com/TaqdeerK22/teraterm-qa-runner)**: a Python runner for Tera Term QA macros
+- **[realtor-site](https://github.com/TaqdeerK22/realtor-site)**: a full-stack real estate site with an admin dashboard (Next.js, PostgreSQL, Prisma, Docker). 
+- **[teraterm-qa-runner](https://github.com/TaqdeerK22/teraterm-qa-runner)**: a Python runner for Tera Term QA macros.
 
 ## Currently
 - Looking for co-op and part-time tech roles
